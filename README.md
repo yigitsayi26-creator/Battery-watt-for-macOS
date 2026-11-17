@@ -1,5 +1,6 @@
 [README.md](https://github.com/user-attachments/files/34997451/README.md)
-# ⚡ BatteryWatt
+# ⚡ BatteryWatt<img width="424" height="286" alt="Ekran Resmi 2026-11-18 01 03 03" src="https://github.com/user-attachments/assets/bcb720a1-fa73-4fcd-93d4-6fd7b7fa0d92" />
+
 
 Lightweight, zero-dependency macOS menu bar utility written in pure Swift (`IOKit`) to monitor real-time total system battery wattage, voltage, current, battery health, and estimated remaining runtime. Works on both Hackintosh laptops and real MacBooks.
 
